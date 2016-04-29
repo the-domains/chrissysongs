@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[chrissysongs]]></title>
         <description><![CDATA[chrissysongs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chrissysongs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 02:51:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 04:35:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrissysongs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=d5v0L64Ng8E</p>]]></description>
+            <link>https://thegrid.ai/chrissysongs/httpswwwyoutubecomwatchvd5v0l64ng8e/index.html</link>
+            <guid isPermaLink="false">9d05bd1d-37db-48d4-99fd-81fd29599627</guid>
+            <pubDate>Fri, 29 Apr 2016 04:34:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fee0d10f-d8b0-4ab9-8f29-83350d00c66f.png">]]></description>
-            <link>undefinedthis-is-me-just-a-girl-with-a-guitar-who-is-at-her-happies/index.html</link>
+            <link>https://thegrid.ai/chrissysongs/this-is-me-just-a-girl-with-a-guitar-who-is-at-her-happies/index.html</link>
             <guid isPermaLink="false">dbcecfa1-367f-480c-b5b2-3c9e58bb5a6f</guid>
             <pubDate>Fri, 29 Apr 2016 02:50:37 GMT</pubDate>
         </item>
