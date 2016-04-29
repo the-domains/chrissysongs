@@ -1,0 +1,28 @@
+name: chrissysongs
+favicon: null
+layout_spectrum: 0.3105952381156385
+typography_spectrum: 0.20972521416842937
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.27930476958863437
+  lightness: 0.7803546683862805
+  saturation: 0.7824938099365681
+  rhythmicContrast: 0.43657492753118277
+purpose: []
