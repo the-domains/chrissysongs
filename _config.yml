@@ -1,19 +1,4 @@
-name: chrissysongs
-favicon: null
-layout_spectrum: 0.3105952381156385
 typography_spectrum: 0.20972521416842937
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.7803546683862805
   saturation: 0.7824938099365681
   rhythmicContrast: 0.43657492753118277
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3105952381156385
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: chrissysongs
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Sounds of heaven
 purpose: []
